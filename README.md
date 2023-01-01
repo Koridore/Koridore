@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Koridore - A fullstack web & software engineer
 
-## Loved the project? Show your love to the developer by starring this repo
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+## Loved the project? Show your love to the developer by starring this repo
 
 ![koridore's GitHub stats](https://github-readme-stats.vercel.app/api?username=koridore_icons=true&theme=radical)
 
