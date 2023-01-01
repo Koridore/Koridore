@@ -4,6 +4,9 @@
 ![koridore's GitHub stats](https://github-readme-stats.vercel.app/api?username=koridore_icons=true&theme=radical)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pyksmw1vafyzbtvqa8jrin2ay&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 - 👋 Hi, I’m @Koridore
 - 👀 I’m interested in fullstack web & software development
 - 🌱 I’m currently learning Fullstack web & software development using Node.js
